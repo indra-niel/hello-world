@@ -1,1 +1,4 @@
-Hello! How are you?
+{
+greeting1: "Hello"
+greeting2: "Hi"
+}
